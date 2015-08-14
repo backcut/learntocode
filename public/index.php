@@ -17,6 +17,6 @@ include('include/header.php');
 今天我学到很多关于电脑的很多知识
 晚上我还要继续研究，现在还要很多东西要去学习
 <hr />
-现在的时间是：<?php date(‘Y-m-d H:i:s’) ?>
+
 </body>
 </html>
