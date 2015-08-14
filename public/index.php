@@ -11,5 +11,6 @@ include('include/header.php');
 <hr />
 <p>这里会记录我的学习收获</p>
 今天我学到很多关于电脑的很多知识
+晚上我还要继续研究
 </body>
 </html>
