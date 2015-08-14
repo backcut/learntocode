@@ -10,6 +10,6 @@ include('include/header.php');
 <p>我的老师是我哥哥</p>
 <hr />
 <p>这里会记录我的学习收获</p>
-88822
+jitian
 </body>
 </html>
